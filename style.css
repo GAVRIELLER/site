@@ -1,10 +1,12 @@
 body {
-    background: #f50d0d;
+    background: #8c0bcd;
 }
-
+h1 {
+    style="text-align: center"
+}
 p {
     text-align: center;
 }
 em strong {
-    color: red;
+    color: purple;
 }
