@@ -4,9 +4,10 @@ body {
 
 h1 {
    text-align: center;
+   height: 150px;
 }
 #banner{
-    
+    width: 90%;
 }
 p {
     text-align: center;
