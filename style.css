@@ -10,8 +10,9 @@ h1 {
     width: 90%;
 }
 p {
-    text-align: center;
+    text-align: left;
     font-size: 20px;
+    
 }
 
 #missão{
@@ -31,10 +32,18 @@ a :hover {
     color: rgb(0, 0, 0);
 }
 header {
-    background-color: #424E61;
-    color: white;
+    background-color: #424E61 ;
+    color: white ;
 }
-.cabeçalho{
-       width: 40%;
-    
+.cabeçalho-imagem{
+       width: 40% ;
+       font-size: medium ;
+       text-align: center ;
+}
+.cabeçalho-lista{
+       
+}
+f{
+ font-size: 70px;
+
 }
