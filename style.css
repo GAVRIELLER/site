@@ -1,5 +1,4 @@
 body {
-    background: #dcdfde;
 }
 
 h1 {
@@ -10,15 +9,15 @@ h1 {
     width: 90%;
 }
 p {
-    text-align: left;
-    font-size: 20px;
+    text-align: center;
+    font-size: 16px;
     
 }
 
 #missão{
     color: rgb(83, 43, 226);
 }
-em strong {
+strong {
     color: rgba(0, 0, 0, 0);
 }
 
@@ -31,19 +30,21 @@ a :hover {
 
     color: rgb(0, 0, 0);
 }
-header {
+.header {
     background-color: #424E61 ;
     color: white ;
 }
-.cabeçalho-imagem{
+.cabeçalho-img{
        width: 40% ;
-       font-size: medium ;
+       font-size: x-large ;
        text-align: center ;
+       text-decoration:transparent ;
 }
-.cabeçalho-lista{
-       
-}
-f{
- font-size: 70px;
+.f{
+        font-size: 10px;
 
+}
+.cabeçalho-titulo{
+         font-size: x-large;
+         text-align: center;
 }
