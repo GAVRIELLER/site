@@ -37,7 +37,7 @@ a :hover {
 .cabeçalho-img{
        width: 40% ;
        font-size: x-large ;
-       text-align: center ;
+       text-align:center;
        text-decoration:transparent ;
 }
 .f{
